@@ -22,6 +22,7 @@ Collection of resources I personally find useful, either being blogs, videos, pe
 ## People
 - [Steve 'ardalis' Smith](https://github.com/ardalis)
 - [Jimmy Bogard](https://github.com/jbogard)
+- [Andrew Lock](https://andrewlock.net/)
 
 ## Misc
 - [jetbrains rider keymap](https://resources.jetbrains.com/storage/products/rider/docs/Rider_ReSharper_win_shortcuts.pdf)
