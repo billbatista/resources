@@ -12,6 +12,7 @@ Collection of resources I personally find useful, either being blogs, videos, pe
 - [Dotnetos](https://dotnetos.org/blog/)
 - [Software Alchemy](https://blog.jacobsdata.com/)
 - [Sqls Hack](https://www.sqlshack.com/)
+- [Balta.io](https://balta.io/blog)
 
 ## Videos
 - [The Intersection of Microservices, Domain-Driven Design and Entity Framework Core, by Julie Lerman](https://www.youtube.com/watch?v=DG8Qe7TJiIE "The Intersection of Microservices, Domain-Driven Design and Entity Framework Core")
